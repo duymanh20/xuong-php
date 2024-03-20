@@ -1,0 +1,2 @@
+<?php
+// kết nối CSDL
